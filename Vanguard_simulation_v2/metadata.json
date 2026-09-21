@@ -1,0 +1,6 @@
+{
+  "name": "Project VANGUARD Ground Station",
+  "description": "Stage 1 High-Fidelity Digital Twin & Operations Ground Station for Project VANGUARD (SIH Problem ID: 26026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

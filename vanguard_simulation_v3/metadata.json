@@ -1,0 +1,6 @@
+{
+  "name": "Project VANGUARD - Ground Command Station",
+  "description": "Digital twin ground command station for Project VANGUARD quadruped security and threat detection robot on Indian Railways UIC-60 tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
